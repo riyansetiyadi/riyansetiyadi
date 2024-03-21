@@ -5,7 +5,6 @@
 ## About Me:
 I'm a Web & Mobile Developer based in Indonesia.
 <br>
-- 🌱 I’m currently learning 
 - 📫 How to reach me: setiyariyan19@gmail.com
 
 
